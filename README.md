@@ -1,7 +1,9 @@
-# Lukar ![Alt Text](https://pbs.twimg.com/profile_images/1434008286517506049/f7FxhkHm_400x400.jpg)
+# Lukear 
+<img src="https://pbs.twimg.com/profile_images/1434008286517506049/f7FxhkHm_400x400.jpg" width="100" height="100">
 
-### Twitter: @lukearNFT.
-### Author: Fernando Molina. @fergmolina
+
+### Twitter: [@lukearNFT](https://twitter.com/lukearNFT)
+### Author: Fernando Molina. [@fergmolina](https://twitter.com/fergmolina)
 
 ## Un Smart Contract basado en Loot (@lootproject)
 
@@ -18,6 +20,7 @@ Fue subido a la red de **Polygon**.
 [https://polygonscan.com/address/0x9417ccf03ff863574d0bb0173e564600a8b90486](https://polygonscan.com/address/0x9417ccf03ff863574d0bb0173e564600a8b90486)
 
 Los primeros 10.000 NFT podrán ser reclamados de forma gratuita. Luego, la única forma de obtener uno será a través del mercado secundario en OpenSea
+
 [https://opensea.io/collection/lukear/](https://opensea.io/collection/lukear/)
 
 
